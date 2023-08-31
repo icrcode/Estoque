@@ -9,7 +9,6 @@ namespace Teste
    - As unidades de medidas são: PC, KG, MT, GR, LT, CX.
    - Um produto PODE ter uma descrição.
    - Um produto pode ter um codigo de barras.
-
     */
 {
     public class ProdutoTeste
